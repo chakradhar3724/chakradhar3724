@@ -18,13 +18,14 @@ I enjoy building practical machine learning projects, working with real-world da
 
 ## About Me
 
-* Graduate student in **Computer Science**
-* Focused on **Artificial Intelligence, Machine Learning, and Data Science**
-* Interested in predictive modeling, computer vision, deep learning, and data analytics
-* I like building end-to-end projects from data preprocessing to model deployment
-* Currently exploring **PyTorch, TensorFlow, FastAPI, Docker, AWS, Spark, and Hadoop**
-* Portfolio: [pchakradhar.com](https://www.pchakradhar.com/)
-* LinkedIn: [pchakradhar-reddy](https://www.linkedin.com/in/pchakradhar-reddy/)
+I am a graduate student in **Computer Science** with a focus on **Artificial Intelligence, Machine Learning, and Data Science**.
+
+My interests include **predictive modeling, computer vision, deep learning, and data analytics**. I enjoy building end-to-end machine learning projects, from data preprocessing and model development to deployment and performance optimization.
+
+I am currently expanding my skills in **PyTorch, TensorFlow, FastAPI, Docker, AWS, Apache Spark, and Hadoop**.
+
+- **Portfolio:** [pchakradhar.com](https://www.pchakradhar.com/)
+- **LinkedIn:** [pchakradhar-reddy](https://www.linkedin.com/in/pchakradhar-reddy/)
 
 ---
 
