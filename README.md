@@ -16,19 +16,19 @@ I enjoy building practical machine learning projects, working with real-world da
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 Graduate student in **Computer Science**
-* 🤖 Focused on **Artificial Intelligence, Machine Learning, and Data Science**
-* 📊 Interested in predictive modeling, computer vision, deep learning, and data analytics
-* 🛠️ I like building end-to-end projects from data preprocessing to model deployment
-* 🌱 Currently exploring **PyTorch, TensorFlow, FastAPI, Docker, AWS, Spark, and Hadoop**
-* 🌐 Portfolio: [pchakradhar.com](https://www.pchakradhar.com/)
-* 💼 LinkedIn: [pchakradhar-reddy](https://www.linkedin.com/in/pchakradhar-reddy/)
+* Graduate student in **Computer Science**
+* Focused on **Artificial Intelligence, Machine Learning, and Data Science**
+* Interested in predictive modeling, computer vision, deep learning, and data analytics
+* I like building end-to-end projects from data preprocessing to model deployment
+* Currently exploring **PyTorch, TensorFlow, FastAPI, Docker, AWS, Spark, and Hadoop**
+* Portfolio: [pchakradhar.com](https://www.pchakradhar.com/)
+* LinkedIn: [pchakradhar-reddy](https://www.linkedin.com/in/pchakradhar-reddy/)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -80,7 +80,7 @@ I enjoy building practical machine learning projects, working with real-world da
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I enjoy building practical machine learning projects, working with real-world da
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -108,20 +108,20 @@ I enjoy building practical machine learning projects, working with real-world da
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
   <a href="https://www.pchakradhar.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/pchakradhar-reddy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/chakradhar3724">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </div>
