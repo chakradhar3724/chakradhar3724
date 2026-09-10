@@ -24,7 +24,7 @@ My interests include **predictive modeling, computer vision, deep learning, and 
 
 I am currently expanding my skills in **PyTorch, TensorFlow, FastAPI, Docker, AWS, Apache Spark, and Hadoop**.
 
-- **Portfolio:** [pchakradhar.com](https://www.pchakradhar.com/)
+- **Portfolio:** [chakradharp.com](https://www.chakradharp.com/)
 - **LinkedIn:** [pchakradhar-reddy](https://www.linkedin.com/in/pchakradhar-reddy/)
 
 ---
